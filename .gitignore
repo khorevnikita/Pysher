@@ -4,3 +4,5 @@
 build
 /examples/need_delete.py
 launch.json
+.idea
+.venv
