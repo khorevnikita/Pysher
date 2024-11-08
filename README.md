@@ -1,3 +1,5 @@
+# Fork of https://github.com/deepbrook/Pysher with python2 support
+
 [![PyPI version](https://badge.fury.io/py/Pysher.svg)](https://badge.fury.io/py/Pysher)
 
 # Pysher
